@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 23)
 
 add_executable(MyDataStructures src/main.cpp
         src/my_str.cpp
-        src/my_str.h)
+        src/my_str.h
+        src/my_vec.h)
